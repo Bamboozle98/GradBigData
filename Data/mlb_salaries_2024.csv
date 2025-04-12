@@ -1,0 +1,953 @@
+Player Name,Team,Position,Salary,Years,Total Value,Average Annual
+"Ohtani, Shohei",Dodgers,DH/RHP,70000000,10,700000000,70000000
+"Scherzer, Max",Rangers,RHP,43333334,3,130000000,43333333.33
+"Verlander, Justin",Astros,RHP,43333333,2,86666666,43333333
+"deGrom, Jacob",Rangers,RHP,40000000,5,185000000,37000000
+"Judge, Aaron",Yankees,OF,40000000,9,360000000,40000000
+"Rendon, Anthony",Angels,3,38571429,7,245000000,35000000
+"Trout, Mike",Angels,OF,37116667,12,426500000,35541666.67
+"Cole, Gerrit",Yankees,RHP,36000000,9,324000000,36000000
+"Seager, Corey",Rangers,SS,35000000,10,325000000,32500000
+"Corbin, Patrick",Nationals,LHP,34556200,6,140000000,23333333.33
+"Correa, Carlos",Twins,SS,33333333,6,200000000,33333333
+"Strasburg, Stephen",Nationals,RHP,32811200,7,245000000,35000000
+"Arenado, Nolan",Cardinals,3,32675167,8,260000000,32500000
+"Lindor, Francisco",Mets,SS,32477639,10,341000000,34100000
+"Snell, Blake",Giants,LHP,32000000,2,62000000,31000000
+"Stanton, Giancarlo",Yankees,DH,32000000,13,325000000,25000000
+"Soto, Juan",Yankees,OF,31000000,,0,0
+"Bregman, Alex",Astros,3,30500000,5,100000000,20000000
+"Altuve, Jose",Astros,2,29000000,7,163500000,23357142.86
+"Bryant, Kris",Rockies,1,28000000,7,182000000,26000000
+"Rodon, Carlos",Yankees,LHP,27833333,6,162000000,27000000
+"Harper, Bryce",Phillies,1,27538462,13,330000000,25384615.38
+"Bellinger, Cody",Cubs,OF,27500000,3,80000000,26666667
+"Turner, Trea",Phillies,SS,27272727,11,300000000,27272727
+"Devers, Rafael",Red Sox,3,27066581,10,313500000,31350000
+"Betts, Mookie",Dodgers,SS,26158692,12,365000000,30416666.67
+"Swanson, Dansby",Cubs,SS,26000000,7,177000000,25285714
+"Semien, Marcus",Rangers,2,26000000,7,175000000,25000000
+"Bogaerts, Xander",Padres,2,25454545,11,280000000,25454545
+"Goldschmidt, Paul",Cardinals,1,25333333,5,130000000,26000000
+"Freeman, Freddie",Dodgers,1,25144772,6,162000000,27000000
+"Baez, Javier",Tigers,SS,25000000,6,140000000,23333333.33
+"Moncada, Yoan",White Sox,3,24800000,5,70000000,14000000
+"Nola, Aaron",Phillies,RHP,24571428,7,172000000,24571429
+"Yelich, Christian",Brewers,OF,24170234,9,215000000,23888888.89
+"Springer, George",Blue Jays,OF,24166667,6,150000000,25000000
+"Castillo, Luis",Mariners,RHP,24150000,5,108000000,21600000
+"Realmuto, JT",Phillies,C,23875000,5,115500000,23100000
+"Hernandez, Teoscar",Dodgers,OF,23500000,,0,0
+"Wheeler, Zack",Phillies,RHP,23500000,5,118000000,23600000
+"Ray, Robbie",Giants,LHP,23000000,5,115000000,23000000
+"Story, Trevor",Red Sox,SS,22500000,6,140000000,23333333.33
+"Bassitt, Chris",Blue Jays,RHP,22000000,3,63000000,21000000
+"Gausman, Kevin",Blue Jays,RHP,22000000,5,110000000,22000000
+"Olson, Matt",Braves,1,22000000,8,168000000,21000000
+"Riley, Austin",Braves,3,21000000,10,212000000,21200000
+"Happ, Ian",Cubs,OF,21000000,3,61000000,20333333
+"Suzuki, Seiya",Cubs,OF,21000000,5,85000000,17000000
+"Marte, Starling",Mets,OF,20750000,4,78000000,19500000
+"Alonso, Pete",Mets,1,20500000,,0,0
+"Nimmo, Brandon",Mets,OF,20500000,8,162000000,20250000
+"Morton, Charlie",Braves,RHP,20000000,,0,0
+"Musgrove, Joe",Padres,RHP,20000000,5,100000000,20000000
+"Castellanos, Nick",Phillies,OF,20000000,5,100000000,20000000
+"Schwarber, Kyle",Phillies,DH,20000000,4,79000000,19750000
+"Perez, Salvador",Royals,C,20000000,4,82000000,20500000
+"Guerrero Jr., Vladimir",Blue Jays,1,19900000,,0,0
+"Abreu, Jose",Astros,1,19500000,3,58500000,19500000
+"Hader, Josh",Astros,LHP,19000000,5,95000000,19000000
+"Yoshida, Masataka",Red Sox,OF,18600000,5,90000000,18000000
+"Stroman, Marcus",Yankees,RHP,18500000,2,37000000,18500000
+"Diaz, Edwin",Mets,RHP,18256300,5,102000000,20400000
+"Berrios, Jose",Blue Jays,RHP,18000000,7,131000000,18714285.71
+"Ozuna, Marcell",Braves,DH,18000000,4,65000000,16250000
+"Contreras, Willson",Cardinals,C,18000000,5,87500000,17500000
+"Taillon, Jameson",Cubs,RHP,18000000,4,68000000,17000000
+"Chapman, Matt",Giants,3,18000000,3,54000000,18000000
+"Conforto, Michael",Giants,OF,18000000,2,36000000,18000000
+"Walker, Taijuan",Phillies,RHP,18000000,4,72000000,18000000
+"Giolito, Lucas",Red Sox,RHP,18000000,2,38500000,19250000
+"McCullers Jr., Lance",Astros,RHP,17700000,5,85000000,17000000
+"Mikolas, Miles",Cardinals,RHP,17666667,3,55750000,18583333
+"Benintendi, Andrew",White Sox,OF,17100000,5,75000000,15000000
+"Machado, Manny",Padres,3,17090909,11,350000000,31818182
+"Acuna Jr., Ronald",Braves,OF,17000000,8,100000000,12500000
+"Ramirez, Jose",Guardians,3,17000000,7,141000000,20142857.14
+"Haniger, Mitch",Mariners,OF,17000000,3,43500000,14500000
+"Eovaldi, Nathan",Rangers,RHP,17000000,2,34000000,17000000
+"Rizzo, Anthony",Yankees,1,17000000,2,40000000,20000000
+"Hendricks, Kyle",Cubs,RHP,16500000,,0,0
+"Bell, Josh",Marlins,1,16500000,2,33000000,16500000
+"Iglesias, Raisel",Braves,RHP,16000000,4,58000000,14500000
+"Sale, Chris",Braves,LHP,16000000,2,38000000,18000000
+"Darvish, Yu",Padres,RHP,16000000,6,108000000,18000000
+"Jansen, Kenley",Red Sox,RHP,16000000,2,32000000,16000000
+"Montas, Frankie",Reds,RHP,16000000,,0,0
+"Wacha, Michael",Royals,RHP,16000000,2,32000000,16000000
+"Senga, Kodai",Mets,RHP,15666667,5,75000000,15000000
+"Burnes, Corbin",Orioles,RHP,15637500,,0,0
+"Buxton, Byron",Twins,OF,15142857,7,100000000,14285714.29
+"Fried, Max",Braves,LHP,15000000,,0,0
+"Glasnow, Tyler",Dodgers,RHP,15000000,5,136562500,27312500
+"Freeland, Kyle",Rockies,LHP,15000000,5,64500000,12900000
+"Lugo, Seth",Royals,RHP,15000000,3,45000000,15000000
+"LeMahieu, DJ",Yankees,3,15000000,6,90000000,15000000
+"Manaea, Sean",Mets,LHP,14500000,2,28000000,14000000
+"Torres, Gleyber",Yankees,2,14200000,,0,0
+"Pressly, Ryan",Astros,RHP,14000000,2,30000000,15000000
+"Rodriguez, Eduardo",Diamondbacks,LHP,14000000,4,80000000,20000000
+"Martinez, Nick",Reds,RHP,14000000,2,26000000,13000000
+"Flaherty, Jack",Tigers,RHP,14000000,,0,0
+"Maeda, Kenta",Tigers,RHP,14000000,2,24000000,12000000
+"Jimenez, Eloy",White Sox,DH,13833333,6,43000000,7166666.67
+"Marte, Ketel",Diamondbacks,2,13600000,5,76000000,15200000
+"Smith, Will",Dodgers,C,13550000,10,140000000,0
+"Bieber, Shane",Guardians,RHP,13125000,,0,0
+"Anderson, Tyler",Angels,LHP,13000000,3,39000000,13000000
+"Turner, Justin",Blue Jays,DH,13000000,,0,0
+"Taylor, Chris",Dodgers,OF,13000000,4,60000000,15000000
+"Quintana, Jose",Mets,LHP,13000000,2,26000000,13000000
+"Severino, Luis",Mets,RHP,13000000,,0,0
+"Gray, Jon",Rangers,RHP,13000000,4,56000000,14000000
+"Heaney, Andrew",Rangers,LHP,13000000,2,25000000,12500000
+"Candelario, Jeimer",Reds,3,13000000,3,45000000,15000000
+"Blackmon, Charlie",Rockies,DH,13000000,,0,0
+"Stripling, Ross",Athletics,RHP,12500000,2,25000000,12500000
+"Matz, Steven",Cardinals,LHP,12500000,4,44000000,11000000
+"Robert Jr., Luis",White Sox,OF,12500000,6,50000000,8333333.33
+"Adames, Willy",Brewers,SS,12250000,,0,0
+"Rodriguez, Julio",Mariners,OF,12185714,12,209300000,17441667
+"Valdez, Framber",Astros,LHP,12100000,,0,0
+"Bichette, Bo",Blue Jays,SS,12083333,3,33600000,11200000
+"Tucker, Kyle",Astros,OF,12000000,,0,0
+"Hoskins, Rhys",Brewers,1,12000000,2,34000000,17000000
+"Gibson, Kyle",Cardinals,RHP,12000000,,0,0
+"Rogers, Taylor",Giants,LHP,12000000,3,33000000,11000000
+"Garcia, Avisail",Marlins,OF,12000000,4,53000000,13250000
+"Kimbrel, Craig",Orioles,RHP,12000000,,0,0
+"McCann, James",Orioles,C,12000000,4,40600000,10150000
+"Gonzales, Marco",Pirates,LHP,12000000,4,30000000,7500000
+"McMahon, Ryan",Rockies,3,12000000,6,70000000,11666667
+"Senzatela, Antonio",Rockies,RHP,12000000,5,50500000,10100000
+"DeSclafani, Anthony",Twins,RHP,12000000,3,36000000,12000000
+"Tatis Jr., Fernando",Padres,OF,11714286,14,340000000,24285714.29
+"Santander, Anthony",Orioles,OF,11700000,,0,0
+"Montero, Rafael",Astros,RHP,11500000,3,34500000,11500000
+"Hoerner, Nico",Cubs,2,11500000,3,35000000,11666667
+"Canha, Mark",Tigers,OF,11500000,,0,0
+"Stephenson, Robert",Angels,RHP,11000000,3,33000000,11000000
+"Suarez, Eugenio",Diamondbacks,3,11000000,7,66000000,9428571.43
+"Crawford, J.P.",Mariners,SS,11000000,5,51000000,10200000
+"Eflin, Zach",Rays,RHP,11000000,3,40000000,13333333
+"Walker, Christian",Diamondbacks,1,10900000,,0,0
+"Alvarez, Yordan",Astros,DH,10833333,6,115000000,19166667
+"Arraez, Luis",Marlins,2,10600000,,0,0
+"Green, Chad",Blue Jays,RHP,10500000,2,8500000,4250000
+"Kiermaier, Kevin",Blue Jays,OF,10500000,,0,0
+"Smyly, Drew",Cubs,LHP,10500000,2,19000000,9500000
+"Garver, Mitch",Mariners,DH,10500000,2,24000000,12000000
+"Polanco, Jorge",Mariners,2,10500000,,0,0
+"Bader, Harrison",Mets,OF,10500000,,0,0
+"Chapman, Aroldis",Pirates,LHP,10500000,,0,0
+"McNeil, Jeff",Mets,2,10250000,4,50000000,12500000
+"Reynolds, Bryan",Pirates,OF,10250000,8,106750000,13343750
+"Hicks, Aaron",Angels,OF,10240000,7,70000000,10000000
+"Gallen, Zac",Diamondbacks,RHP,10011000,,0,0
+"Kikuchi, Yusei",Blue Jays,LHP,10000000,3,36000000,12000000
+"Gray, Sonny",Cardinals,RHP,10000000,3,75000000,25000000
+"Lynn, Lance",Cardinals,RHP,10000000,,0,0
+"Gurriel Jr., Lourdes",Diamondbacks,OF,10000000,3,42000000,14000000
+"Cobb, Alex",Giants,RHP,10000000,,0,0
+"Soler, Jorge",Giants,DH,10000000,3,42000000,14000000
+"Suarez, Robert",Padres,RHP,10000000,5,46000000,9200000
+"Marquez, German",Rockies,RHP,10000000,2,20000000,10000000
+"Kepler, Max",Twins,OF,10000000,,0,0
+"Margot, Manuel",Twins,OF,10000000,,0,0
+"Vazquez, Christian",Twins,C,10000000,3,30000000,10000000
+"Imanaga, Shota",Cubs,LHP,9500000,4,53000000,13250000
+"Pederson, Joc",Diamondbacks,OF,9500000,,0,0
+"Muncy, Max",Dodgers,3,9500000,2,24000000,12000000
+"Martin, Chris",Red Sox,RHP,9500000,2,17500000,8750000
+"Bard, Daniel",Rockies,RHP,9500000,,0,0
+"Alcantara, Sandy",Marlins,RHP,9300000,5,56000000,11200000
+"Yamamoto, Yoshinobu",Dodgers,RHP,9166667,12,325000000,27083333
+"Alvarado, Jose",Phillies,LHP,9025000,3,22000000,11000000
+"Moore, Matt",Angels,LHP,9000000,,0,0
+"Murphy, Sean",Braves,C,9000000,6,73000000,12166667
+"Neris, Hector",Cubs,RHP,9000000,,0,0
+"Heyward, Jason",Dodgers,OF,9000000,,0,0
+"Lowe, Brandon",Rays,2,8750000,6,24000000,4000000
+"Verdugo, Alex",Yankees,OF,8700000,,0,0
+"Drury, Brandon",Angels,DH,8500000,2,17000000,8500000
+"Wood, Alex",Athletics,LHP,8500000,,0,0
+"Miley, Wade",Brewers,LHP,8500000,,0,0
+"Kelly, Merrill",Diamondbacks,RHP,8500000,2,18000000,9000000
+"Lyles, Jordan",Royals,RHP,8500000,2,17000000,8500000
+"Robertson, David",Rangers,RHP,8283253,,0,0
+"Lee, Jung-Hoo",Giants,OF,8250000,6,113000000,18833333
+"Lopez, Pablo",Twins,RHP,8250000,4,73500000,18375000
+"Arozarena, Randy",Rays,OF,8100000,,0,0
+"Buehler, Walker",Dodgers,RHP,8025000,,0,0
+"Graveman, Kendall",Astros,RHP,8000000,3,24000000,8000000
+"Diaz, Aledmys",Athletics,INF,8000000,2,14500000,7250000
+"d'Arnaud, Travis",Braves,C,8000000,,0,0
+"Jimenez, Joe",Braves,RHP,8000000,3,26000000,8666667
+"Kelly, Joe",Dodgers,RHP,8000000,,0,0
+"Webb, Logan",Giants,RHP,8000000,5,90000000,18000000
+"Cease, Dylan",Padres,RHP,8000000,,0,0
+"Kim, Ha-Seong",Padres,SS,8000000,4,28000000,7000000
+"Perez, Martin",Pirates,LHP,8000000,,0,0
+"Diaz, Yandy",Rays,1,8000000,3,24000000,8000000
+"Pagan, Emilio",Reds,RHP,8000000,2,16000000,8000000
+"Yastrzemski, Mike",Giants,OF,7900000,,0,0
+"Romano, Jordan",Blue Jays,RHP,7750000,,0,0
+"Kiner-Falefa, Isiah",Blue Jays,3,7500000,2,15000000,7500000
+"Strahm, Matt",Phillies,LHP,7500000,2,15000000,7500000
+"Lowe, Nate",Rangers,1,7500000,,0,0
+"Pivetta, Nick",Red Sox,RHP,7500000,,0,0
+"Fedde, Erick",White Sox,RHP,7500000,2,15000000,7500000
+"Javier, Cristian",Astros,RHP,7400000,5,64000000,12800000
+"Sewald, Paul",Diamondbacks,RHP,7350000,,0,0
+"Cronenworth, Jake",Padres,1,7285714,7,80000000,11428571
+"Albies, Ozzie",Braves,2,7000000,7,35000000,5000000
+"Johnson, Pierce",Braves,RHP,7000000,2,14250000,7125000
+"Williams, Devin",Brewers,RHP,7000000,,0,0
+"Edman, Tommy",Cardinals,SS,7000000,2,16500000,8250000
+"Paxton, James",Dodgers,LHP,7000000,,0,0
+"Narvaez, Omar",Mets,C,7000000,2,15000000,7500000
+"Williams, Trevor",Nationals,RHP,7000000,2,13000000,6500000
+"Merrifield, Whit",Phillies,INF,7000000,,0,0
+"Hayes, Ke'Bryan",Pirates,3,7000000,8,70000000,8750000
+"Stassi, Max",White Sox,C,7000000,3,17500000,5833333.33
+"France, Ty",Mariners,1,6775000,,0,0
+"Estevez, Carlos",Angels,RHP,6750000,2,13500000,6750000
+"Barlow, Scott",Guardians,RHP,6700000,,0,0
+"Naylor, Josh",Guardians,1,6550000,,0,0
+"Quantrill, Cal",Rockies,RHP,6550000,,0,0
+"Flores, Wilmer",Giants,SS,6500000,,0,0
+"Hicks, Jordan",Giants,RHP,6500000,4,44000000,11000000
+"Jackson, Luke",Giants,RHP,6500000,2,11500000,5750000
+"Raley, Brooks",Mets,LHP,6500000,,0,0
+"Ruiz, Keibert",Nationals,C,6375000,8,50000000,6250000
+"Mullins, Cedric",Orioles,OF,6325000,,0,0
+"Hays, Austin",Orioles,OF,6300000,,0,0
+"Leclerc, Jose",Rangers,RHP,6250000,,0,0
+"Maton, Phil",Rays,RHP,6250000,,0,0
+"Carpenter, Matt",Cardinals,DH,6240000,2,12000000,6000000
+"Minter, A.J.",Braves,LHP,6220000,,0,0
+"Farmer, Kyle",Twins,2,6050000,,0,0
+"Caratini, Victor",Astros,C,6000000,2,12000000,6000000
+"Garcia, Yimi",Blue Jays,RHP,6000000,,0,0
+"Gomes, Yan",Cubs,C,6000000,,0,0
+"Diaz, Elias",Rockies,C,6000000,3,14500000,4833333.33
+"Holmes, Clay",Yankees,RHP,6000000,,0,0
+"O'Neill, Tyler",Red Sox,OF,5850000,,0,0
+"Gallegos, Giovanny",Cardinals,RHP,5750000,,0,0
+"Rojas, Miguel",Dodgers,SS,5750000,,0,0
+"Kahnle, Tommy",Yankees,RHP,5750000,3,14500000,4833333
+"Peralta, Freddy",Brewers,RHP,5734960,5,15500000,3100000
+"Scott, Tanner",Marlins,LHP,5700000,,0,0
+"Varsho, Daulton",Blue Jays,OF,5650000,,0,0
+"Gimenez, Andres",Guardians,2,5571429,7,106500000,15214286
+"Bummer, Aaron",Braves,LHP,5500000,5,16000000,3200000
+"Luzardo, Jesus",Marlins,LHP,5500000,,0,0
+"Mahle, Tyler",Rangers,RHP,5500000,2,22000000,11000000
+"Renfroe, Hunter",Royals,OF,5500000,2,13000000,6500000
+"Grisham, Trent",Yankees,OF,5500000,,0,0
+"Thomas, Lane",Nationals,OF,5450000,,0,0
+"Keller, Mitch",Pirates,RHP,5442500,5,77000000,15400000
+"Gonsolin, Anthony",Dodgers,RHP,5400000,,0,0
+"Springs, Jeffrey",Rays,LHP,5250000,4,31000000,7750000
+"Santana, Carlos",Twins,1,5250000,,0,0
+"Jansen, Danny",Blue Jays,C,5200000,,0,0
+"Laureano, Ramon",Guardians,OF,5150000,,0,0
+"Finnegan, Kyle",Nationals,RHP,5100000,,0,0
+"Houser, Adrian",Mets,RHP,5050000,,0,0
+"Suarez, Ranger",Phillies,LHP,5050000,,0,0
+"Sandoval, Patrick",Angels,LHP,5025000,,0,0
+"Harris II, Mike",Braves,OF,5000000,8,72000000,9000000
+"Middleton, Keynan",Cardinals,RHP,5000000,,0,0
+"Castro, Miguel",Diamondbacks,RHP,5000000,,0,0
+"Peterson, Jace",Diamondbacks,INF,5000000,2,9500000,4750000
+"Kershaw, Clayton",Dodgers,LHP,5000000,2,10000000,5000000
+"Urias, Luis",Mariners,2,5000000,,0,0
+"Anderson, Tim",Marlins,SS,5000000,,0,0
+"Soto, Gregory",Phillies,LHP,5000000,,0,0
+"McCutchen, Andrew",Pirates,OF,5000000,,0,0
+"Smith, Will",Royals,LHP,5000000,,0,0
+"Civale, Aaron",Rays,RHP,4900000,,0,0
+"Singer, Brady",Royals,RHP,4850000,,0,0
+"Ward, Taylor",Angels,OF,4800000,,0,0
+"Garcia, Adolis",Rangers,OF,4750000,2,14000000,7000000
+"Estrada, Thairo",Giants,2,4700000,,0,0
+"Bednar, David",Pirates,RHP,4510000,,0,0
+"Brasier, Ryan",Dodgers,RHP,4500000,2,9000000,4500000
+"Ottavino, Adam",Mets,RHP,4500000,2,14500000,7250000
+"Lorenzen, Michael",Rangers,RHP,4500000,,0,0
+"Yates, Kirby",Rangers,RHP,4500000,,0,0
+"Rengifo, Luis",Angels,2,4400000,,0,0
+"Lopez, Nicky",White Sox,2,4300000,,0,0
+"Garcia, Luis",Angels,RHP,4250000,,0,0
+"Dominguez, Seranthony",Phillies,RHP,4250000,,0,0
+"Chafin, Andrew",Tigers,LHP,4250000,,0,0
+"Biggio, Cavan",Blue Jays,2,4210000,,0,0
+"Mountcastle, Ryan",Orioles,DH,4137000,,0,0
+"Gilbert, Logan",Mariners,RHP,4050000,,0,0
+"Lopez, Reynaldo",Braves,RHP,4000000,3,30000000,10000000
+"Junis, Jakob",Brewers,RHP,4000000,,0,0
+"Steele, Justin",Cubs,LHP,4000000,,0,0
+"Hernandez, Kike",Dodgers,INF,4000000,,0,0
+"Phillips, Evan",Dodgers,RHP,4000000,,0,0
+"Murphy, Tom",Giants,C,4000000,2,8250000,4125000
+"Slater, Austin",Giants,OF,4000000,,0,0
+"Hedges, Austin",Guardians,C,4000000,,0,0
+"Stanek, Ryne",Mariners,RHP,4000000,,0,0
+"Diekman, Jake",Mets,LHP,4000000,,0,0
+"Rosario, Eddie",Nationals,OF,4000000,,0,0
+"Bohm, Alec",Phillies,3,4000000,,0,0
+"Taylor, Michael A.",Pirates,OF,4000000,,0,0
+"Brebbia, John",White Sox,RHP,4000000,,0,0
+"Maldonado, Martin",White Sox,C,4000000,,0,0
+"Cortes, Nestor",Yankees,LHP,3950000,,0,0
+"Yarbrough, Ryan",Dodgers,LHP,3900000,,0,0
+"Fairbanks, Pete",Rays,RHP,3816667,,0,0
+"Helsley, Ryan",Cardinals,RHP,3800000,,0,0
+"Ramirez, Harold",Rays,OF,3800000,,0,0
+"India, Jonathan",Reds,2,3800000,2,8800000,4400000
+"Urquidy, Jose",Astros,RHP,3750000,,0,0
+"Carroll, Corbin",Diamondbacks,OF,3625000,8,111000000,13875000
+"Berti, Jon",Yankees,INF,3625000,,0,0
+"McClanahan, Shane",Rays,LHP,3600000,,0,0
+"Mayza, Tim",Blue Jays,LHP,3590000,,0,0
+"Dubon, Mauricio",Astros,2,3500000,,0,0
+"Rea, Colin",Brewers,RHP,3500000,,0,0
+"Barnes, Austin",Dodgers,C,3500000,,0,0
+"Wade, LaMonte",Giants,1,3500000,,0,0
+"O'Hearn, Ryan",Orioles,1,3500000,,0,0
+"Whitlock, Garrett",Red Sox,RHP,3500000,4,18750000,4687500
+"Stratton, Chris",Royals,RHP,3500000,2,8000000,4000000
+"Kelly, Carson",Tigers,C,3500000,,0,0
+"Blackburn, Paul",Athletics,RHP,3450000,,0,0
+"Paredes, Isaac",Rays,3,3400000,,0,0
+"Peralta, Wandy",Padres,LHP,3350000,4,16500000,4125000
+"Greene, Hunter",Reds,RHP,3333333,6,53000000,8833333
+"Means, John",Orioles,LHP,3325000,,0,0
+"Dunning, Dane",Rangers,RHP,3325000,,0,0
+"Castro, Willi",Twins,OF,3300000,,0,0
+"Matsui, Yuki",Padres,LHP,3250000,5,28000000,5600000
+"Vaughn, Andrew",White Sox,1,3250000,,0,0
+"Thielbar, Caleb",Twins,LHP,3225000,,0,0
+"Rogers, Tyler",Giants,RHP,3200000,,0,0
+"Tellez, Rowdy",Pirates,1,3200000,,0,0
+"Rodgers, Brendan",Rockies,2,3200000,,0,0
+"King, Michael",Padres,RHP,3150000,,0,0
+"Gomber, Austin",Rockies,LHP,3150000,,0,0
+"Moore, Dylan",Mariners,OF,3133333,,0,0
+"Witt Jr., Bobby",Royals,SS,3111111,11,288777777,26252525
+"Rojas, Josh",Mariners,3,3100000,,0,0
+"Heim, Jonah",Rangers,C,3050000,,0,0
+"Duvall, Adam",Braves,OF,3000000,,0,0
+"Sanchez, Gary",Brewers,C,3000000,,0,0
+"McGough, Scott",Diamondbacks,RHP,3000000,2,6250000,3125000
+"Maile, Luke",Reds,C,3000000,,0,0
+"Miller, Shelby",Tigers,RHP,3000000,,0,0
+"Kopech, Michael",White Sox,RHP,3000000,,0,0
+"Soroka, Michael",White Sox,RHP,3000000,,0,0
+"Clase, Emmanuel",Guardians,RHP,2900000,,0,0
+"McCormick, Chas",Astros,OF,2850000,,0,0
+"Sims, Lucas",Reds,RHP,2850000,,0,0
+"Keith, Colt",Tigers,2,2833333,6,28642500,4773750
+"Kirk, Alejandro",Blue Jays,C,2800000,,0,0
+"Swanson, Erik",Blue Jays,RHP,2750000,,0,0
+"Trevino, Jose",Yankees,C,2730000,,0,0
+"Wisdom, Patrick",Cubs,OF,2725000,,0,0
+"Espinal, Santiago",Reds,INF,2725000,,0,0
+"Graterol, Brusdar",Dodgers,RHP,2700000,,0,0
+"Mateo, Jorge",Orioles,2,2700000,,0,0
+"Adam, Jason",Rays,RHP,2700000,,0,0
+"Robles, Victor",Nationals,OF,2650000,,0,0
+"Skubal, Tarik",Tigers,LHP,2650000,,0,0
+"Chisholm Jr., Jazz",Marlins,OF,2625000,,0,0
+"Canning, Griffin",Angels,RHP,2600000,,0,0
+"Brown, Seth",Athletics,OF,2600000,,0,0
+"Taveras, Leody",Rangers,OF,2550000,,0,0
+"Stephenson, Tyler",Reds,C,2525000,,0,0
+"Paddack, Chris",Twins,RHP,2525000,3,12525000,4175000
+"Davis, J.D.",Athletics,3,2500000,,0,0
+"Woodruff, Brandon",Brewers,RHP,2500000,2,22000000,11000000
+"Gallo, Joey",Nationals,OF,2500000,,0,0
+"Grandal, Yasmani",Pirates,C,2500000,,0,0
+"Suter, Brent",Reds,LHP,2500000,,0,0
+"Loaisiga, Jonathan",Yankees,RHP,2500000,,0,0
+"Franco, Wander",Rays,SS,2454545,11,182000000,16545454.55
+"Jeffers, Ryan",Twins,C,2425000,,0,0
+"Ferguson, Caleb",Yankees,LHP,2400000,,0,0
+"Poche, Colin",Rays,LHP,2375000,,0,0
+"Carlson, Dylan",Cardinals,OF,2350000,,0,0
+"Bubic, Kris",Royals,LHP,2350000,,0,0
+"Harvey, Hunter",Nationals,RHP,2325000,,0,0
+"Coulombe, Danny",Orioles,LHP,2300000,,0,0
+"Brubaker, JT",Pirates,RHP,2275000,,0,0
+"Kittredge, Andrew",Cardinals,RHP,2262500,,0,0
+"Alexander, Scott",Athletics,LHP,2250000,,0,0
+"Chourio, Jackson",Brewers,OF,2250000,(8 (2024-31),82000000,10250000
+"Floro, Dylan",Nationals,RHP,2250000,,0,0
+"Farmer, Buck",Reds,RHP,2250000,,0,0
+"Smith, Drew",Mets,RHP,2225000,,0,0
+"Hoffman, Jeff",Phillies,RHP,2200000,,0,0
+"Munoz, Andres",Mariners,RHP,2187500,4,7500000,1875000
+"Higashioka, Kyle",Padres,C,2180000,,0,0
+"Richards, Trevor",Blue Jays,RHP,2150000,,0,0
+"Peterson, David",Mets,LHP,2150000,,0,0
+"Fraley, Jake",Reds,OF,2150000,,0,0
+"May, Dustin",Dodgers,RHP,2135000,,0,0
+"Joe, Connor",Pirates,OF,2125000,,0,0
+"Alzolay, Adbert",Cubs,RHP,2110000,,0,0
+"Sanchez, Jesus",Marlins,OF,2100000,,0,0
+"Urias, Ramon",Orioles,3,2100000,,0,0
+"Milner, Hoby",Brewers,LHP,2050000,,0,0
+"Bethancourt, Christian",Marlins,C,2050000,,0,0
+"Armstrong, Shawn",Rays,RHP,2050000,,0,0
+"Taylor, Tyrone",Mets,OF,2025000,,0,0
+"Schmidt, Clarke",Yankees,RHP,2025000,,0,0
+"Carrasco, Carlos",Guardians,RHP,2000000,,0,0
+"Barnes, Matt",Nationals,RHP,2000000,,0,0
+"Winker, Jesse",Nationals,OF,2000000,,0,0
+"Vogelbach, Daniel",Blue Jays,DH,2000000,,0,0
+"Arcia, Orlando",Braves,SS,2000000,3,7300000,2433333
+"Crawford, Brandon",Cardinals,SS,2000000,,0,0
+"Hudson, Daniel",Dodgers,RHP,2000000,,0,0
+"Lopez, Jorge",Mets,RHP,2000000,,0,0
+"Wendle, Joey",Mets,INF,2000000,,0,0
+"Senzel, Nick",Nationals,3,2000000,,0,0
+"Irvin, Cole",Orioles,LHP,2000000,,0,0
+"Turnbull, Spencer",Phillies,RHP,2000000,,0,0
+"Hendriks, Liam",Red Sox,RHP,2000000,2,10000000,5000000
+"Rodriguez, Joely",Red Sox,LHP,2000000,,0,0
+"Frazier, Adam",Royals,2,2000000,,0,0
+"Hampson, Garrett",Royals,2,2000000,,0,0
+"Weaver, Luke",Yankees,RHP,2000000,,0,0
+"Wells, Tyler",Orioles,RHP,1962500,,0,0
+"Tauchman, Michael",Cubs,OF,1950000,,0,0
+"Garcia Jr., Luis",Nationals,2,1950000,,0,0
+"Alexander, Tyler",Rays,LHP,1950000,,0,0
+"Matzek, Tyler",Braves,LHP,1900000,,0,0
+"Almonte, Yency",Cubs,RHP,1900000,,0,0
+"Karinchak, James",Guardians,RHP,1900000,,0,0
+"Garcia, Luis",Astros,RHP,1875000,,0,0
+"Rasmussen, Drew",Rays,RHP,1862500,,0,0
+"Littell, Zack",Rays,RHP,1850000,,0,0
+"Refsnyder, Rob",Red Sox,OF,1850000,,0,0
+"Knizner, Andrew",Rangers,C,1825000,,0,0
+"Madrigal, Nick",Cubs,INF,1810000,,0,0
+"Puk, A.J.",Marlins,LHP,1800000,,0,0
+"Wright, Kyle",Royals,RHP,1800000,,0,0
+"Hill, Tim",White Sox,LHP,1800000,,0,0
+"Cooper, Garrett",Cubs,1,1750000,,0,0
+"Urena, Jose",Rangers,RHP,1750000,,0,0
+"Cisnero, Jose",Angels,RHP,1750000,,0,0
+"Abreu, Bryan",Astros,RHP,1750000,,0,0
+"DeJong, Paul",White Sox,SS,1750000,,0,0
+"Flexen, Chris",White Sox,RHP,1750000,,0,0
+"Andujar, Miguel",Athletics,OF,1700000,,0,0
+"Sosa, Edmundo",Phillies,INF,1700000,,0,0
+"Jankowski, Travis",Rangers,OF,1700000,,0,0
+"Rogers, Jake",Tigers,C,1700000,,0,0
+"Beeks, Jalen",Rockies,LHP,1675000,,0,0
+"Cimber, Adam",Angels,RHP,1650000,,0,0
+"Payamps, Joel",Brewers,RHP,1650000,,0,0
+"McKenzie, Triston",Guardians,RHP,1600000,,0,0
+"Stephan, Trevor",Guardians,RHP,1600000,4,10000000,2500000
+"Borucki, Ryan",Pirates,LHP,1600000,,0,0
+"Anderson, Nick",Royals,RHP,1575000,,0,0
+"Rogers, Trevor",Marlins,LHP,1530000,,0,0
+"Cabrera, Genesis",Blue Jays,LHP,1512500,,0,0
+"Law, Derek",Nationals,RHP,1500000,,0,0
+"Wilson, Justin",Reds,LHP,1500000,,0,0
+"Leone, Dominic",White Sox,RHP,1500000,,0,0
+"Gott, Trevor",Athletics,RHP,1500000,,0,0
+"Ross, Joe",Brewers,RHP,1500000,,0,0
+"Leiter Jr., Mark",Cubs,RHP,1500000,,0,0
+"Grichuk, Randal",Diamondbacks,OF,1500000,,0,0
+"Rainey, Tanner",Nationals,RHP,1500000,,0,0
+"Tate, Dillon",Orioles,RHP,1500000,,0,0
+"Rosario, Amed",Rays,INF,1500000,,0,0
+"McGuire, Reese",Red Sox,C,1500000,,0,0
+"Hudson, Dakota",Rockies,RHP,1500000,,0,0
+"Stallings, Jacob",Rockies,C,1500000,,0,0
+"Tovar, Ezequiel",Rockies,SS,1500000,7,63500000,9071428
+"Urshela, Gio",Tigers,3,1500000,,0,0
+"Trivino, Lou",Yankees,RHP,1500000,,0,0
+"Stewart, DJ",Mets,OF,1380000,,0,0
+"Bauers, Jake",Brewers,1,1350000,,0,0
+"Thompson, Ryan",Diamondbacks,RHP,1350000,,0,0
+"Olivares, Edward",Pirates,OF,1350000,,0,0
+"Kirilloff, Alex",Twins,INF,1350000,,0,0
+"Kinley, Tyler",Rockies,RHP,1300000,,0,0
+"Jackson, Jay",Twins,RHP,1300000,,0,0
+"Chargois, JT",Marlins,RHP,1285000,,0,0
+"Toro, Abraham",Athletics,INF,1275000,,0,0
+"Walsh, Jared",Rangers,1,1250000,,0,0
+"Clarke, Taylor",Brewers,RHP,1250000,,0,0
+"Voth, Austin",Mariners,RHP,1250000,,0,0
+"Anderson, Chase",Red Sox,RHP,1250000,,0,0
+"Lambert, Peter",Rockies,RHP,1250000,,0,0
+"Hernandez, Jonathan",Rangers,RHP,1245000,,0,0
+"Ginkel, Kevin",Diamondbacks,RHP,1225000,,0,0
+"Lux, Gavin",Dodgers,2,1225000,,0,0
+"Topa, Justin",Twins,RHP,1225000,,0,0
+"Beede, Tyler",Guardians,RHP,1200000,,0,0
+"Waguespack, Jacob",Rays,RHP,1200000,,0,0
+"Thornton, Trent",Mariners,RHP,1200000,,0,0
+"Perez, Cionel",Orioles,LHP,1200000,,0,0
+"Merryweather, Julian",Cubs,RHP,1175000,,0,0
+"Schreiber, John",Royals,RHP,1175000,,0,0
+"Bello, Brayan",Red Sox,RHP,1166667,6,55000000,9166667
+"Hentges, Sam",Guardians,LHP,1162500,,0,0
+"De Los Santos, Enyel",Padres,RHP,1160000,,0,0
+"Young, Alex",Reds,LHP,1160000,,0,0
+"Guillorme, Luis",Braves,INF,1100000,,0,0
+"Vargas, Ildemaro",Nationals,INF,1100000,,0,0
+"Taylor, Josh",Royals,LHP,1100000,,0,0
+"Sandlin, Nick",Guardians,RHP,1075000,,0,0
+"Okert, Steven",Twins,LHP,1062500,,0,0
+"Brentz, Jake",Royals,LHP,1050000,2,1900000,950000
+"Burke, Brock",Rangers,LHP,1035000,,0,0
+"Wilson, Bryse",Brewers,RHP,1025000,,0,0
+"Sborz, Josh",Rangers,RHP,1025000,,0,0
+"Hernandez, Carlos",Royals,RHP,1012500,,0,0
+"Newcomb, Sean",Athletics,LHP,1000000,,0,0
+"Strider, Spencer",Braves,RHP,1000000,6,75000000,12500000
+"Treinen, Blake",Dodgers,RHP,1000000,,0,0
+"Vesia, Alex",Dodgers,LHP,1000000,,0,0
+"Smith, Burch",Marlins,RHP,1000000,,0,0
+"Tonkin, Michael",Mets,RHP,1000000,,0,0
+"Bautista, Felix",Orioles,RHP,1000000,,0,0
+"Kemp, Tony",Orioles,OF,1000000,,0,0
+"Webb, Jacob",Orioles,RHP,1000000,,0,0
+"Profar, Jurickson",Padres,OF,1000000,,0,0
+"Devenski, Chris",Rays,RHP,1000000,,0,0
+"Cave, Jake",Rockies,OF,1000000,,0,0
+"Pillar, Kevin",White Sox,OF,1000000,,0,0
+"Staumont, Josh",Twins,RHP,950000,,0,0
+"Suarez, Jose",Angels,LHP,925000,,0,0
+"Mantiply, Joe",Diamondbacks,LHP,925000,,0,0
+"Hamilton, Ian",Yankees,RHP,923050,,0,0
+"Haggerty, Sam",Mariners,2,900000,,0,0
+"Gordon, Nick",Marlins,OF,900000,,0,0
+"Stewart, Brock",Twins,RHP,900000,,0,0
+"Sano, Miguel",Angels,3,875000,,0,0
+"Bazardo, Eduard",Mariners,RHP,870600,,0,0
+"Romero, JoJo",Cardinals,LHP,860000,,0,0
+"Gonzalez, Victor",Yankees,LHP,860000,,0,0
+"Ahmed, Nick",Giants,SS,850000,,0,0
+"McFarland, T.J.",Athletics,LHP,850000,,0,0
+"Singleton, Jonathan",Astros,1,850000,,0,0
+"Wade, Tyler",Padres,3,850000,,0,0
+"Covey, Dylan",Phillies,RHP,850000,,0,0
+"Stubbs, Garrett",Phillies,C,850000,,0,0
+"Fleming, Josh",Pirates,LHP,850000,,0,0
+"Quijada, Jose",Angels,LHP,840000,,0,0
+"Ryan, Ryder",Pirates,RHP,830000,,0,0
+"Antone, Tejay",Reds,RHP,830000,,0,0
+"Mize, Casey",Tigers,RHP,830000,,0,0
+"Akin, Keegan",Orioles,LHP,825000,,0,0
+"Volpe, Anthony",Yankees,SS,810100,,0,0
+"Adams, Austin",Athletics,RHP,800000,,0,0
+"Stratton, Hunter",Pirates,RHP,800000,,0,0
+"Shaw, Bryan",White Sox,RHP,800000,,0,0
+"Burdi, Nick",Yankees,RHP,800000,,0,0
+"Pearson, Nate",Blue Jays,RHP,800000,,0,0
+"Perkins, Blake",Brewers,OF,800000,,0,0
+"Crochet, Garrett",White Sox,LHP,800000,,0,0
+"Kirby, George",Mariners,RHP,798600,,0,0
+"Garrett, Stone",Nationals,OF,798600,,0,0
+"Raleigh, Cal",Mariners,C,795000,,0,0
+"Scott, Tayler",Astros,RHP,790000,,0,0
+"Alcala, Jorge",Twins,RHP,790000,,0,0
+"Perdomo, Geraldo",Diamondbacks,SS,786000,,0,0
+"Pena, Jeremy",Astros,SS,783500,,0,0
+"Cabrera, Oswaldo",Yankees,OF,783000,,0,0
+"Manoah, Alek",Blue Jays,RHP,782500,,0,0
+"Vieira, Thyago",Brewers,RHP,777500,,0,0
+"Brown, Hunter",Astros,RHP,774500,,0,0
+"Weems, Jordan",Nationals,RHP,773500,,0,0
+"Reid-Foley, Sean",Mets,RHP,772750,,0,0
+"Adell, Jo",Angels,OF,770000,,0,0
+"Detmers, Reid",Angels,LHP,770000,,0,0
+"Moniak, Mickey",Angels,OF,770000,,0,0
+"Thaiss, Matt",Angels,C,770000,,0,0
+"Outman, James",Dodgers,OF,770000,,0,0
+"Bart, Joey",Giants,C,770000,,0,0
+"Doval, Camilo",Giants,RHP,770000,,0,0
+"Bender, Anthony",Marlins,RHP,770000,,0,0
+"Houck, Tanner",Red Sox,RHP,770000,,0,0
+"Thomas, Alek",Diamondbacks,OF,769500,,0,0
+"Diaz, Yainer",Astros,C,768900,,0,0
+"Ramirez, Yohan",Mets,RHP,768750,,0,0
+"De La Cruz, Bryan",Marlins,OF,768000,,0,0
+"Stott, Bryson",Phillies,2,768000,,0,0
+"France, J.P.",Astros,RHP,767600,,0,0
+"Meyers, Jake",Astros,OF,767300,,0,0
+"Morel, Christopher",Cubs,3,767000,,0,0
+"Contreras, William",Brewers,C,766900,,0,0
+"Peraza, Oswald",Yankees,SS,766600,,0,0
+"Marsh, Brandon",Phillies,OF,766500,,0,0
+"White, Mitch",Blue Jays,RHP,766400,,0,0
+"Foley, Jason",Tigers,RHP,766300,,0,0
+"Greene, Riley",Tigers,OF,766300,,0,0
+"Megill, Tylor",Mets,RHP,766250,,0,0
+"Ibanez, Andy",Tigers,INF,766100,,0,0
+"McCarthy, Jake",Diamondbacks,OF,766000,,0,0
+"Vierling, Matt",Tigers,OF,766000,,0,0
+"Torkelson, Spencer",Tigers,1,765700,,0,0
+"Bielak, Brandon",Astros,RHP,765000,,0,0
+"Oviedo, Johan",Pirates,RHP,765000,,0,0
+"McKinstry, Zach",Tigers,INF,764400,,0,0
+"Nelson, Ryne",Diamondbacks,RHP,764300,,0,0
+"Garrett, Braxton",Marlins,LHP,764000,,0,0
+"Reyes, Pablo",Red Sox,INF,764000,,0,0
+"Alvarez, Francisco",Mets,C,762500,,0,0
+"Cuas, Jose",Cubs,RHP,762000,,0,0
+"Ober, Bailey",Twins,RHP,761850,,0,0
+"Jax, Griffin",Twins,RHP,761750,,0,0
+"Nootbaar, Lars",Cardinals,OF,761000,,0,0
+"Cabrera, Edward",Marlins,RHP,761000,,0,0
+"Brogdon, Connor",Phillies,RHP,761000,,0,0
+"Carpenter, Kerry",Tigers,OF,761000,,0,0
+"Vest, Will",Tigers,RHP,760700,,0,0
+"Lange, Alex",Tigers,RHP,760600,,0,0
+"Henry, Tommy",Diamondbacks,LHP,760500,,0,0
+"Pache, Cristian",Phillies,OF,760500,,0,0
+"Rutschman, Adley",Orioles,C,760300,,0,0
+"Moreno, Gabriel",Diamondbacks,C,760100,,0,0
+"O'Hoppe, Logan",Angels,C,760000,,0,0
+"Soriano, Jose",Angels,RHP,760000,,0,0
+"Kelenic, Jarred",Braves,OF,760000,,0,0
+"Lee, Dylan",Braves,LHP,760000,,0,0
+"Grove, Michael",Dodgers,RHP,760000,,0,0
+"Burger, Jake",Marlins,3,760000,,0,0
+"Casas, Triston",Red Sox,1,760000,,0,0
+"Crawford, Kutter",Red Sox,RHP,760000,,0,0
+"Dalbec, Bobby",Red Sox,INF,760000,,0,0
+"Duran, Jarren",Red Sox,OF,760000,,0,0
+"Winckowski, Josh",Red Sox,RHP,760000,,0,0
+"Wong, Connor",Red Sox,C,760000,,0,0
+"Diaz, Alexis",Reds,RHP,760000,,0,0
+"Gibaut, Ian",Reds,RHP,760000,,0,0
+"Lodolo, Nick",Reds,LHP,760000,,0,0
+"Moll, Sam",Reds,LHP,760000,,0,0
+"Gilbreath, Lucas",Rockies,LHP,760000,,0,0
+"Lambert, Jimmy",White Sox,RHP,759250,,0,0
+"Fortes, Nick",Marlins,C,759000,,0,0
+"Ryan, Joe",Twins,RHP,758850,,0,0
+"Holton, Tyler",Tigers,LHP,758300,,0,0
+"Isbel, Kyle",Royals,OF,758250,,0,0
+"Siri, Jose",Rays,OF,757800,,0,0
+"Clement, Ernie",Blue Jays,2,757700,,0,0
+"Kwan, Steven",Guardians,OF,757600,,0,0
+"Brash, Matt",Mariners,RHP,757600,,0,0
+"Gray, Josiah",Nationals,RHP,757400,,0,0
+"Nelson, Kyle",Diamondbacks,LHP,757300,,0,0
+"Walls, Taylor",Rays,INF,757300,,0,0
+"Donovan, Brendan",Cardinals,INF,757200,,0,0
+"Massey, Michael",Royals,2,757000,,0,0
+"Sheets, Gavin",White Sox,INF,756950,,0,0
+"Pallante, Andre",Cardinals,RHP,756900,,0,0
+"Zavala, Seby",Mariners,C,756700,,0,0
+"Megill, Trevor",Brewers,RHP,756600,,0,0
+"Kremer, Dean",Orioles,RHP,756600,,0,0
+"Henderson, Gunnar",Orioles,SS,756200,,0,0
+"Jung, Josh",Rangers,3,756000,,0,0
+"Lowe, Josh",Rays,OF,755700,,0,0
+"Gorman, Nolan",Cardinals,2,755550,,0,0
+"Rortvedt, Ben",Rays,C,755400,,0,0
+"Banks, Tanner",White Sox,LHP,755050,,0,0
+"Assad, Javier",Cubs,RHP,755000,,0,0
+"Warren, Austin",Giants,RHP,755000,,0,0
+"Bae, Ji-hwan",Pirates,2,755000,,0,0
+"Contreras, Roansy",Pirates,RHP,755000,,0,0
+"Cruz, Oneil",Pirates,SS,755000,,0,0
+"Delay, Jason",Pirates,C,755000,,0,0
+"Falter, Bailey",Pirates,LHP,755000,,0,0
+"Hernandez, Jose",Pirates,LHP,755000,,0,0
+"Holderman, Colin",Pirates,RHP,755000,,0,0
+"Moreta, Dauri",Pirates,RHP,755000,,0,0
+"Suwinski, Jack",Pirates,OF,755000,,0,0
+"Melendez, MJ",Royals,OF,754750,,0,0
+"Campusano, Luis",Padres,C,754700,,0,0
+"Bradish, Kyle",Orioles,RHP,754500,,0,0
+"Duran, Ezequiel",Rangers,INF,754500,,0,0
+"Pfaadt, Brandon",Diamondbacks,RHP,754400,,0,0
+"Peguero, Elvis",Brewers,RHP,754300,,0,0
+"Raley, Luke",Mariners,1,754200,,0,0
+"Nardi, Andrew",Marlins,LHP,754000,,0,0
+"Ragans, Cole",Royals,LHP,753750,,0,0
+"Martinez, Seth",Astros,RHP,753600,,0,0
+"Sanchez, Cristopher",Phillies,LHP,753500,,0,0
+"Speier, Gabe",Mariners,LHP,753300,,0,0
+"Saucedo, Tayler",Mariners,LHP,753100,,0,0
+"Brazoban, Huascar",Marlins,RHP,753000,,0,0
+"Pasquantino, Vinnie",Royals,1,752750,,0,0
+"Miller, Bryce",Mariners,RHP,752600,,0,0
+"Weathers, Ryan",Marlins,LHP,752600,,0,0
+"Monasterio, Andruw",Brewers,INF,752500,,0,0
+"Abrams Jr., CJ",Nationals,SS,752400,,0,0
+"Cano, Yennier",Orioles,RHP,752300,,0,0
+"Olson, Reese",Tigers,RHP,752300,,0,0
+"Meneses, Joey",Nationals,DH,752000,,0,0
+"Wilson, Steven",White Sox,RHP,751900,,0,0
+"Winder, Josh",Twins,RHP,751850,,0,0
+"Caballero, Jose",Rays,SS,751700,,0,0
+"Marte, Yunior",Phillies,RHP,751500,,0,0
+"Rucker, Michael",Phillies,RHP,751500,,0,0
+"Garcia, Maikel",Royals,3,751250,,0,0
+"Morgan, Eli",Guardians,RHP,751200,,0,0
+"Serven, Brian",Blue Jays,C,751000,,0,0
+"Adams, Riley",Nationals,C,750900,,0,0
+"Thompson, Zack",Cardinals,LHP,750850,,0,0
+"Hoeing, Bryan",Marlins,RHP,750500,,0,0
+"Cosgrove, Tom",Padres,LHP,750500,,0,0
+"Burleson, Alec",Cardinals,OF,750050,,0,0
+"Gil, Luis",Yankees,RHP,750000,,0,0
+"Bachman, Sam",Angels,RHP,750000,,0,0
+"Neto, Zach",Angels,SS,750000,,0,0
+"Schanuel, Nolan",Angels,1,750000,,0,0
+"Silseth, Chase",Angels,RHP,750000,,0,0
+"Stefanic, Michael",Angels,INF,750000,,0,0
+"Zuniga, Guillermo",Angels,RHP,750000,,0,0
+"Erceg, Lucas",Athletics,RHP,750000,,0,0
+"Jimenez, Dany",Athletics,RHP,750000,,0,0
+"Kelly, Michael",Athletics,RHP,750000,,0,0
+"Rooker, Brent",Athletics,OF,750000,,0,0
+"Wall, Forrest",Braves,OF,750000,,0,0
+"Miller, Bobby",Dodgers,RHP,750000,,0,0
+"Sheehan, Emmet",Dodgers,RHP,750000,,0,0
+"Lively, Ben",Guardians,RHP,750000,,0,0
+"Santos, Gregory",Mariners,RHP,750000,,0,0
+"Baty, Brett",Mets,3,750000,,0,0
+"Kranick, Max",Mets,RHP,750000,,0,0
+"Marchan, Rafael",Phillies,C,750000,,0,0
+"Ashcraft, Graham",Reds,RHP,750000,,0,0
+"Benson, Will",Reds,OF,750000,,0,0
+"Cruz, Fernando",Reds,RHP,750000,,0,0
+"Fairchild, Stuart",Reds,OF,750000,,0,0
+"Friedl, TJ",Reds,OF,750000,,0,0
+"Martini, Nick",Reds,OF,750000,,0,0
+"Steer, Spencer",Reds,OF,750000,,0,0
+"Mears, Nick",Rockies,RHP,750000,,0,0
+"Foster, Matt",White Sox,RHP,750000,,0,0
+"Effross, Scott",Yankees,RHP,750000,,0,0
+"Wells, Austin",Yankees,C,750000,,0,0
+"Blanco, Ronel",Astros,RHP,749800,,0,0
+"Jameson, Drey",Diamondbacks,RHP,749700,,0,0
+"Parsons, Wes",Blue Jays,RHP,749600,,0,0
+"Gore, MacKenzie",Nationals,LHP,749600,,0,0
+"Smith, Josh",Rangers,INF,749500,,0,0
+"Abreu, Wilyer",Red Sox,OF,749500,,0,0
+"Sands, Cole",Twins,RHP,749450,,0,0
+"Patino, Luis",Padres,RHP,749400,,0,0
+"Thompson, Mason",Nationals,RHP,749200,,0,0
+"Woo, Bryan",Mariners,RHP,749000,,0,0
+"Baumann, Michael",Orioles,RHP,748900,,0,0
+"Ortega, Oliver",Astros,RHP,748500,,0,0
+"Florial, Estevan",Guardians,OF,748500,,0,0
+"Bradford, Cody",Rangers,LHP,748500,,0,0
+"Frias, Luis",Diamondbacks,RHP,748300,,0,0
+"Rodriguez, Grayson",Orioles,RHP,748300,,0,0
+"Zerpa, Angel",Royals,LHP,748250,,0,0
+"Turang, Brice",Brewers,2,748200,,0,0
+"Francis, Bowden",Blue Jays,RHP,748000,,0,0
+"Perez, Eury",Marlins,RHP,748000,,0,0
+"Bailey, Patrick",Giants,C,747500,,0,0
+"Beck, Tristan",Giants,RHP,747500,,0,0
+"Walker, Ryan",Giants,RHP,747500,,0,0
+"Davis, Henry",Pirates,C,747500,,0,0
+"Mlodzinski, Carmen",Pirates,RHP,747500,,0,0
+"Ortiz, Luis",Pirates,RHP,747500,,0,0
+"Walker, Jordan",Cardinals,OF,747450,,0,0
+"Mushinski, Parker",Astros,LHP,747400,,0,0
+"Uribe, Abner",Brewers,RHP,747400,,0,0
+"Snider, Collin",Mariners,RHP,747300,,0,0
+"Short, Zack",Mets,INF,747300,,0,0
+"Scholtens, Jesse",White Sox,RHP,747250,,0,0
+"Liberatore, Matthew",Cardinals,LHP,747200,,0,0
+"Duran, Jhoan",Twins,RHP,747200,,0,0
+"Otto, Glenn",Padres,RHP,747000,,0,0
+"Velazquez, Nelson",Royals,OF,747000,,0,0
+"Cleavinger, Garrett",Rays,LHP,746900,,0,0
+"Meadows, Parker",Tigers,OF,746900,,0,0
+"Julien, Edouard",Twins,2,746750,,0,0
+"Wentz, Joey",Tigers,LHP,746700,,0,0
+"Avila, Pedro",Padres,RHP,746600,,0,0
+"Faedo, Alex",Tigers,RHP,746600,,0,0
+"Frelick, Sal",Brewers,OF,746500,,0,0
+"Amaya, Miguel",Cubs,C,746500,,0,0
+"Mastrobuoni, Miles",Cubs,INF,746000,,0,0
+"Soriano, George",Marlins,RHP,746000,,0,0
+"Brito, Jhony",Padres,RHP,746000,,0,0
+"Marcano, Tucupita",Padres,SS,746000,,0,0
+"Campbell, Isaiah",Red Sox,RHP,746000,,0,0
+"Brujan, Vidal",Marlins,OF,745800,,0,0
+"Westburg, Jordan",Orioles,2,745800,,0,0
+"Dominguez, Jasson",Yankees,OF,745800,,0,0
+"McArthur, James",Royals,RHP,745750,,0,0
+"Bibee, Tanner",Guardians,RHP,745700,,0,0
+"Azocar, Jose",Padres,OF,745700,,0,0
+"Lewis, Royce",Twins,3,745700,,0,0
+"Irvin, Jake",Nationals,RHP,745600,,0,0
+"Wallner, Matt",Twins,OF,745550,,0,0
+"Varland, Louie",Twins,RHP,745400,,0,0
+"Palacios, Richie",Rays,OF,745200,,0,0
+"Pinto, Rene",Rays,C,745100,,0,0
+"Bride, Jonah",Marlins,INF,745000,,0,0
+"Trejo, Alan",Rockies,2,745000,,0,0
+"Allen, Nick",Athletics,SS,745000,,0,0
+"Bleday, JJ",Athletics,OF,745000,,0,0
+"Langeliers, Shea",Athletics,C,745000,,0,0
+"Noda, Ryan",Athletics,1,745000,,0,0
+"Ruiz, Esteury",Athletics,OF,745000,,0,0
+"Sears, J.P.",Athletics,LHP,745000,,0,0
+"Tarnok, Freddy",Athletics,RHP,745000,,0,0
+"Waldichuk, Ken",Athletics,LHP,745000,,0,0
+"Rojas, Johan",Phillies,OF,745000,,0,0
+"Rodriguez, Endy",Pirates,C,745000,,0,0
+"Triolo, Jared",Pirates,2,745000,,0,0
+"Williams, Alika",Pirates,INF,745000,,0,0
+"Carter, Evan",Rangers,OF,745000,,0,0
+"Bird, Jake",Rockies,RHP,745000,,0,0
+"Feltner, Ryan",Rockies,RHP,745000,,0,0
+"Jones, Nolan",Rockies,OF,745000,,0,0
+"Lawrence, Justin",Rockies,RHP,745000,,0,0
+"Montero, Elehuris",Rockies,1,745000,,0,0
+"Schneider, Davis",Blue Jays,INF,744900,,0,0
+"Brennan, Will",Guardians,OF,744900,,0,0
+"Pepiot, Ryan",Rays,RHP,744900,,0,0
+"Marsh, Alec",Royals,RHP,744750,,0,0
+"Weiss, Zack",Twins,RHP,744550,,0,0
+"Fermin, Freddy",Royals,C,744500,,0,0
+"Curry, Xzavion",Guardians,RHP,744400,,0,0
+"Rosario, Eguy",Padres,INF,744400,,0,0
+"Mitchell, Garrett",Brewers,OF,744300,,0,0
+"Allen, Logan",Guardians,LHP,744300,,0,0
+"Hall, DL",Brewers,LHP,744200,,0,0
+"Arias, Gabriel",Guardians,INF,744100,,0,0
+"Ortiz, Luis",Phillies,RHP,744000,,0,0
+"Harrison, Kyle",Giants,LHP,743750,,0,0
+"Hjelle, Sean",Giants,RHP,743750,,0,0
+"Winn, Keaton",Giants,RHP,743750,,0,0
+"Blanco, Dairon",Royals,OF,743750,,0,0
+"Canzone, Dominic",Mariners,OF,743700,,0,0
+"Jarvis, Bryce",Diamondbacks,RHP,743600,,0,0
+"Baz, Shane",Rays,RHP,743600,,0,0
+"Gipson-Long, Sawyer",Tigers,RHP,743600,,0,0
+"Mauricio, Ronny",Mets,INF,743500,,0,0
+"Murphy, Chris",Red Sox,LHP,743500,,0,0
+"Rafaela, Ceddanne",Red Sox,OF,743500,,0,0
+"Valdez, Enmanuel",Red Sox,2,743500,,0,0
+"Weissert, Greg",Red Sox,RHP,743500,,0,0
+"Bradley, Taj",Rays,RHP,743300,,0,0
+"Moore, McKinley",Yankees,RHP,743250,,0,0
+"Herrera, Ivan",Cardinals,C,743150,,0,0
+"Meyer, Max",Marlins,RHP,743000,,0,0
+"Kowar, Jackson",Mariners,RHP,743000,,0,0
+"Edwards, Xavier",Marlins,2,743000,,0,0
+"Ferrer, Jose",Nationals,LHP,743000,,0,0
+"Rodriguez, Yerry",Rangers,RHP,743000,,0,0
+"Fletcher, Dominic",White Sox,OF,742900,,0,0
+"Garcia, Robert",Nationals,LHP,742800,,0,0
+"Cowser, Colton",Orioles,OF,742800,,0,0
+"Aranda, Jonathan",Rays,INF,742800,,0,0
+"Vespi, Nick",Orioles,LHP,742700,,0,0
+"Thompson, Bubba",Reds,OF,742500,,0,0
+"Hurt, Kyle",Dodgers,RHP,742500,,0,0
+"Stone, Gavin",Dodgers,RHP,742500,,0,0
+"Kerkering, Orion",Phillies,RHP,742500,,0,0
+"Abbott, Andrew",Reds,LHP,742500,,0,0
+"De La Cruz, Elly",Reds,SS,742500,,0,0
+"McLain, Matt",Reds,2,742500,,0,0
+"Williamson, Brandon",Reds,LHP,742500,,0,0
+"DeLuca, Jonny",Rays,OF,742400,,0,0
+"Sousa, Bennett",Astros,LHP,742300,,0,0
+"Mead, Curtis",Rays,INF,742300,,0,0
+"Winn, Masyn",Cardinals,SS,742250,,0,0
+"Rom, Drew",Cardinals,LHP,742200,,0,0
+"Kessinger, Grae",Astros,INF,742100,,0,0
+"Naylor, Bo",Guardians,C,742100,,0,0
+"Williams, Gavin",Guardians,RHP,742100,,0,0
+"Freeman, Tyler",Guardians,OF,742000,,0,0
+"Cronin, Declan",Marlins,RHP,742000,,0,0
+"Sanchez, Sixto",Marlins,RHP,742000,,0,0
+"Grissom, Vaughn",Red Sox,2,742000,,0,0
+"Doyle, Brenton",Rockies,OF,742000,,0,0
+"Toglia, Michael",Rockies,1,742000,,0,0
+"Vodnik, Victor",Rockies,RHP,742000,,0,0
+"Loftin, Nick",Royals,INF,741900,,0,0
+"Fitzgerald, Tyler",Giants,INF,741875,,0,0
+"Lee, Korey",White Sox,C,741850,,0,0
+"Waldron, Matt",Padres,RHP,741800,,0,0
+"Hudson, Bryan",Brewers,LHP,741700,,0,0
+"Siani, Mike",Cardinals,OF,741650,,0,0
+"Dubin, Shawn",Astros,RHP,741600,,0,0
+"Ortiz, Joey",Brewers,INF,741500,,0,0
+"Busch, Michael",Cubs,DH,741500,,0,0
+"Wicks, Jordan",Cubs,LHP,741500,,0,0
+"Small, Ethan",Giants,LHP,741300,,0,0
+"Hancock, Emerson",Mariners,RHP,741300,,0,0
+"Jones, Jahmai",Yankees,INF,741200,,0,0
+"Fry, David",Guardians,C,741100,,0,0
+"Bolton, Cody",Mariners,RHP,741100,,0,0
+"Latz, Jacob",Rangers,LHP,741000,,0,0
+"Herrin, Tim",Guardians,LHP,740800,,0,0
+"Gaddis, Hunter",Guardians,RHP,740700,,0,0
+"Garcia, Deivi",White Sox,RHP,740550,,0,0
+"Kilian, Caleb",Cubs,RHP,740500,,0,0
+"Little, Luke",Cubs,LHP,740500,,0,0
+"Simpson, Josh",Marlins,LHP,740500,,0,0
+"O'Brien, Riley",Cardinals,RHP,740450,,0,0
+"Berroa, Prelander",White Sox,RHP,740350,,0,0
+"Shewmake, Braden",White Sox,SS,740350,,0,0
+"Rocchio, Brayan",Guardians,SS,740200,,0,0
+"Cavalli, Cade",Nationals,RHP,740200,,0,0
+"Miller, Erik",Giants,LHP,740000,,0,0
+"McCann, Kyle",Athletics,C,740000,,0,0
+"Roupp, Landen",Giants,RHP,740000,,0,0
+"Duarte, Daniel",Twins,RHP,740000,,0,0
+"Murphy, Penn",Astros,RHP,740000,,0,0
+"Chavez, Jesse",Braves,RHP,740000,,0,0
+"Dunn, Oliver",Brewers,INF,740000,,0,0
+"Barnhart, Tucker",Diamondbacks,C,740000,,0,0
+"Jones, Jared",Pirates,RHP,740000,,0,0
+"Langford, Wyatt",Rangers,OF,740000,,0,0
+"Shenton, Austin",Rays,3,740000,,0,0
+"Marte, Noelvi",Reds,3,740000,,0,0
+"Leasure, Jordan",White Sox,RHP,740000,,0,0
+"Boyle, Joe",Athletics,RHP,740000,,0,0
+"Butler, Lawrence",Athletics,OF,740000,,0,0
+"Gelof, Zack",Athletics,2,740000,,0,0
+"Hernaiz, Darell",Athletics,INF,740000,,0,0
+"Medina, Luis",Athletics,RHP,740000,,0,0
+"Miller, Mason",Athletics,RHP,740000,,0,0
+"Muller, Kyle",Athletics,LHP,740000,,0,0
+"Spence, Mitch",Athletics,RHP,740000,,0,0
+"Perdomo, Angel",Braves,LHP,740000,,0,0
+"Fernandez, Ryan",Cardinals,RHP,740000,,0,0
+"Scott II, Victor",Cardinals,OF,740000,,0,0
+"Alexander, Blaze",Diamondbacks,INF,740000,,0,0
+"Martinez, Angel",Guardians,INF,740000,,0,0
+"Smith, Cade",Guardians,RHP,740000,,0,0
+"Nunez, Nasim",Nationals,SS,740000,,0,0
+"Kolek, Stephen",Padres,RHP,740000,,0,0
+"Merrill, Jackson",Padres,OF,740000,,0,0
+"Pauley, Graham",Padres,3,740000,,0,0
+"Coleman, Carson",Rangers,RHP,740000,,0,0
+"Mata, Bryan",Red Sox,RHP,740000,,0,0
+"Slaten, Justin",Red Sox,RHP,740000,,0,0
+"Encarnacion-Strand, Christian",Reds,1,740000,,0,0
+"Molina, Anthony",Rockies,RHP,740000,,0,0
+"Sauer, Matt",Royals,RHP,740000,,0,0
+"Funderburk, Kody",Twins,LHP,740000,,0,0
+"Drohan, Shane",White Sox,LHP,740000,,0,0
+"Beeter, Clayton",Yankees,RHP,740000,,0,0
